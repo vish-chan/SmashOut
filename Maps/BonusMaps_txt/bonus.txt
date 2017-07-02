@@ -1,0 +1,11 @@
+1 Red  Life
+2 Green   Laser
+3 blue     Missile
+4 Missile
+5 flame
+6 shield
+7 laser
+8 life
+9 black screen
+a Blinking ball
+b reverse motion
